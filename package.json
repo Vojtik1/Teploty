@@ -1,0 +1,27 @@
+{
+  "name": "teploty",
+  "version": "1.0.0",
+  "description": "Seznam teplot",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Vojtěch Šíma",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Vojtik1/Teploty.git"
+  },
+  "keywords": [
+    "NodeJS",
+    "PUG",
+    "CSV"
+  ],
+  "bugs": {
+    "url": "https://github.com/Vojtik1/Teploty/issues"
+  },
+  "homepage": "https://github.com/Vojtik1/Teploty#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
